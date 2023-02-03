@@ -71,7 +71,7 @@ section{
 .head{
     position: fixed;
     top: 0; left: 0; right: 0;
-    z-index: 1000;
+    z-index: 1000;    
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -273,7 +273,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url("C:/Users/abc/Downloads/pexels-karyna-panchenko-10873329.jpg") no-repeat;
+    background: url("pexels-karyna-panchenko-10873329.jpg") no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 17rem;
